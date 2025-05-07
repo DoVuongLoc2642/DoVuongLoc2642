@@ -9,11 +9,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 <!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\ -->
-🎓 &nbsp;I graduated as a Bachelor of Computer Science from the University of Engineering and Technology - Vietnam National University.\
-🎓 &nbsp;At the moment, I am studying Master of Data Science and Innovation at University of Technology Sydney (UTS).\
+🎓 &nbsp;I graduated as an Engineer of Electronic and Telecommunication specialized in Computer Engineering from the Hanoi University of Science and Technology.\
+🎓 &nbsp;At the moment, I am studying Master of Computer Science at The University of Sydney (USYD).\
 🌱 &nbsp;I'm on the way of learning Machine Learning, Artificial Intelligence and other related fields.\
 💬 &nbsp;Here is a collection of my tiny projects and exercise for praticing and learning. \
-👨‍💻 &nbsp;You can visit my <a href="https://hainguyen2903.github.io/HaiNguyen2903/">Portfolio</a> to know more about my exciting projects and works.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
