@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 <!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\ -->
-🎓 &nbsp;I graduated as an Engineer of Electronic and Telecommunication specialized in Computer Engineering from the Hanoi University of Science and Technology.\
+🎓 &nbsp;My name is Luke Do and I graduated as an Engineer of Electronic and Telecommunication specialized in Computer Engineering from the Hanoi University of Science and Technology.\
 🎓 &nbsp;At the moment, I am studying Master of Computer Science at The University of Sydney (USYD).\
 🌱 &nbsp;I'm on the way of learning Machine Learning, Artificial Intelligence and other related fields.\
 💬 &nbsp;Here is a collection of my tiny projects and exercise for praticing and learning. \
