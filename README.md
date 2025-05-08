@@ -3,7 +3,7 @@
 
 <!-- <h2>Hey there! My name is Hai</h2> -->
 
-## 👋 &nbsp;Hey there! Welcome to my page !!! 
+## 👋 &nbsp;Hey there! Welcome to my page, I'm Luke Do !!! 
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -52,9 +52,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <!-- <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/DoVuongLoc2642">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DoVuongLoc2642&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DoVuongLoc2642&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p> -->
 
@@ -67,24 +67,23 @@
 
 
 ### 🔭 Check out my Repositories
-<a href="https://github.com/DoVuongLoc2642/TimeSformer/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=TimeSformer&theme=radical" />
-</a>    
 <a href="https://github.com/DoVuongLoc2642/AI-Screening-and-Interview-LLM-Agent/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=AI-Screening-and-Interview-LLM-Agent&theme=merko" />
 </a>
-
-<a href="https://github.com/DoVuongLoc2642/Project_Regression_Data_Science_Salary/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=Project_Regression_Data_Science_Salary&theme=gruvbox" />
-</a>    
 <a href="https://github.com/DoVuongLoc2642/Timeseries-Anomaly-Detection/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=Timeseries-Anomaly-Detection&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=Timeseries-Anomaly-Detection&theme=synthwave" />
 </a>
 
+<a href="https://github.com/DoVuongLoc2642/TimeSformer/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=TimeSformer&theme=cobalt" />
+</a>    
+<a href="https://github.com/DoVuongLoc2642/Data-Science-Salary-Predictor/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=Data-Science-Salary-Predictor&theme=gruvbox" />
+</a>    
 
 <!--
 **DoVuongLoc2642/DoVuongLoc2642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
