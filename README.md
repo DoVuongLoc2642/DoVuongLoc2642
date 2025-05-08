@@ -65,7 +65,26 @@
 </a>
 </p>
 
------
+
+### 🔭 Check out my Repositories
+<a href="https://github.com/DoVuongLoc2642/TimeSformer/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=TimeSformer&theme=radical" />
+</a>    
+<a href="https://github.com/DoVuongLoc2642/AI-Screening-and-Interview-LLM-Agent/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=AI-Screening-and-Interview-LLM-Agent&theme=merko" />
+</a>
+
+<a href="https://github.com/DoVuongLoc2642/Project_Regression_Data_Science_Salary/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=Project_Regression_Data_Science_Salary&theme=gruvbox" />
+</a>    
+<a href="https://github.com/DoVuongLoc2642/Timeseries-Anomaly-Detection/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DoVuongLoc2642&repo=Timeseries-Anomaly-Detection&theme=dark" />
+</a>
+
 
 <!--
 **DoVuongLoc2642/DoVuongLoc2642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
